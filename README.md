@@ -1,4 +1,4 @@
-# Spring Boot 3 Microservices Project
+# Spring Boot 4 Microservices Project
 
 A full **Microservices architecture** project built with **Spring Boot 4**
 
@@ -10,7 +10,7 @@ This repository contains all services and related configurations to demonstrate 
 
 This project implements an architecture composed of multiple services which communicate using REST / Spring Cloud stack. Each service runs independently and can be deployed, scaled, and tested in isolation.
 
-✔️ Built using Spring Boot 3  
+✔️ Built using Spring Boot 4  
 ✔️ Distributed system architecture  
 ✔️ API Gateway  
 ✔️ Multiple backend services  
